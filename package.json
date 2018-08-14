@@ -1,0 +1,28 @@
+{
+  "name": "wordguesscli",
+  "version": "1.0.0",
+  "description": "Small word guess game in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wntitus/Word-Guess-CLI.git"
+  },
+  "keywords": [
+    "game",
+    "cli",
+    "guess",
+    "small"
+  ],
+  "author": "wntitus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wntitus/Word-Guess-CLI/issues"
+  },
+  "homepage": "https://github.com/wntitus/Word-Guess-CLI#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0"
+  }
+}
